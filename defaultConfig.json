@@ -3,9 +3,9 @@
   "microsoftBookingsUrl": "https://microsoftbookings.azurewebsites.net/?organization=financialservices&UICulture=en-US",
   "chatEnabled": true,
   "screenShareEnabled": true,
-  "companyName": "SalesTeamOne",
+  "companyName": "SalesInACloud",
   "colorPalette": "#374256",
-  "waitingTitle": "Welcome to your SalesTeamOne meeting!",
-  "waitingSubtitle": "Waiting for participants ...",
+  "waitingTitle": "Welcome to your meeting, powered by 'Sales In A Cloud'!",
+  "waitingSubtitle": "Please be patient, the meeting is about to start any moment now ...",
   "logoUrl": ""
 }
