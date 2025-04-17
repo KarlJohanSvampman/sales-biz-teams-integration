@@ -1,0 +1,1 @@
+1. Copy "defaultConfig.json"&#xd;2. Navigate to the "./server/src" directory&#xd;3. Paste "defaultConfig.json", overwriting the original file&#xd;4. Replace communicationServicesConnectionString by your resource's connection string value (Get that value in the Keys feature of your Communication Services resource in Azure Portal)

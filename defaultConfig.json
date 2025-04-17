@@ -1,0 +1,11 @@
+{
+  "communicationServicesConnectionString": "endpoint=your_endpoint;accesskey=secret",
+  "microsoftBookingsUrl": "https://microsoftbookings.azurewebsites.net/?organization=financialservices&UICulture=en-US",
+  "chatEnabled": true,
+  "screenShareEnabled": true,
+  "companyName": "SalesTeamOne",
+  "colorPalette": "#374256",
+  "waitingTitle": "Welcome to your SalesTeamOne meeting!",
+  "waitingSubtitle": "Waiting for participants ...",
+  "logoUrl": ""
+}
